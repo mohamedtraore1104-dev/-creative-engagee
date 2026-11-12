@@ -1,6 +1,6 @@
-# 📸 Portfolio Solène Avril — Projet Fil Rouge
+#  Portfolio Solène Avril — Projet Fil Rouge
 
-## 📝 Présentation du projet
+##  Présentation du projet
 
 Ce projet consiste à réaliser un site vitrine pour **Solène Avril**, une photographe d'art créative et engagée.
 
@@ -8,11 +8,11 @@ L'objectif est de reproduire une maquette en utilisant **HTML et CSS**, tout en 
 
 Le site permet de découvrir l'univers de la photographe à travers une présentation et une galerie d'images.
 
-## 🌐 Voir le projet
+##  Voir le projet
 
-🔗 **Lien du site :** [Ajouter le lien de mon site GitHub Pages]
+ **Lien du site :** https://mohamedtraore1104-dev.github.io/-creative-engagee
 
-## ✨ Contenu du site
+## Contenu du site
 
 - Une page d'accueil présentant la photographe.
 - Une galerie composée de plusieurs photographies.
@@ -20,7 +20,7 @@ Le site permet de découvrir l'univers de la photographe à travers une présent
 - Des icônes permettant d'accéder aux réseaux sociaux.
 - Un affichage responsive pour les différentes tailles d'écran.
 
-## 🛠️ Outils et technologies
+##  Outils et technologies
 
 - **HTML5** : création de la structure des pages.
 - **CSS3** : gestion du design et du responsive.
@@ -28,12 +28,11 @@ Le site permet de découvrir l'univers de la photographe à travers une présent
 - **Font Awesome** : intégration des icônes.
 - **Lorem Picsum** : affichage des photographies de la galerie.
 
-## 🎯 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 Ce projet m'a permis de pratiquer l'intégration d'une maquette en HTML/CSS, de travailler avec Flexbox et CSS Grid et d'améliorer mes connaissances en responsive design.
 
-## 👨‍💻 Réalisé par
+##  Réalisé par
 
-**[Ton prénom et ton nom]**
-
+**TRAORE Mohamed**
 Projet réalisé dans le cadre de ma formation en développement web.
